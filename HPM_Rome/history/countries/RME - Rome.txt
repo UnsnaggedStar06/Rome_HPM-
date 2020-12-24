@@ -25,7 +25,7 @@ government = democracy
 plurality = 0.12
 nationalvalue = nv_order
 literacy = 0.82
-non_state_culture_literacy = 0.35
+non_state_culture_literacy = 0.55
 civilized = yes
 #GreaterPowers = prestige
 prestige = 230
@@ -101,9 +101,9 @@ interchangeable_parts = 1
 romanticism = 1
 high_pressure_steam_engine = 1
 
-
+oob = "RME_oob.txt"
 1861.1.1 = {
-    oob = "/1861/ITA_oob.txt"
+    oob = "/1861/RME_oob.txt"
 }
 
 1861.1.1 = {

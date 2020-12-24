@@ -1,0 +1,35 @@
+political_decisions = {
+    roman_core = {
+        potential = {
+            tag = RME   
+            NOT = { has_country_flag = roman_core } 
+        }
+
+        allow = {
+        }
+        
+
+        effect = {
+            set_country_flag = roman_core
+            any_owned = {
+                limit = {
+                  OR = {
+                    culture = french
+                    culture = north_italian
+                    culture = south_italian
+                    culture = spanish
+                    culture = portuguese
+                    culture = romanian
+                    culture = turkish
+                    culture = greek
+                  }
+                }
+                add_core = RME
+              }
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

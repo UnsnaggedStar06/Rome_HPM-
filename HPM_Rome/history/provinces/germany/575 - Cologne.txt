@@ -1,5 +1,6 @@
 owner = RME
 controller = RME
+add_core = GER
 add_core = RHI
 trade_goods = coal
 life_rating = 40
