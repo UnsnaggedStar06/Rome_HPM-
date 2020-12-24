@@ -1,0 +1,6 @@
+controller = RME
+owner = RME
+add_core = GUY
+trade_goods = tropical_wood
+life_rating = 31
+colonial = 2

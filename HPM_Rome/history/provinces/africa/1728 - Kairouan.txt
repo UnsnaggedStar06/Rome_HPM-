@@ -1,0 +1,10 @@
+owner = RME
+controller = RME
+add_core = TUN
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = {
+    owner = RME
+    controller = RME
+    colonial = 2
+}

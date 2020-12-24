@@ -1,0 +1,9 @@
+controller = RME
+owner = RME
+add_core = FRA
+trade_goods = cattle
+life_rating = 31
+naval_base = 1
+1861.1.1 = {
+    railroad = 3
+}

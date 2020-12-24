@@ -1,0 +1,6 @@
+owner = RME
+controller = RME
+add_core = MOR
+trade_goods = grain
+life_rating = 35
+naval_base = 1

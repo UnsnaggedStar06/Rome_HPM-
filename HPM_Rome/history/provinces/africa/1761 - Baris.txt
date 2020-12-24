@@ -1,0 +1,5 @@
+owner = RME
+controller = RME
+add_core = EGY
+trade_goods = cattle
+life_rating = 10

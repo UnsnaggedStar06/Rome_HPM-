@@ -1,0 +1,6 @@
+controller = RME
+owner = RME
+add_core = FRA
+trade_goods = timber
+life_rating = 31
+1861.1.1 = { railroad = 3 }

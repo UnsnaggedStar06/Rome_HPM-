@@ -1,0 +1,11 @@
+owner = RME
+controller = RME
+add_core = ALD
+trade_goods = wool
+life_rating = 31
+terrain = semidesert
+1861.1.1 = {
+    controller = RME
+    owner = RME
+    colonial = 2
+}
